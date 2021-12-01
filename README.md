@@ -1,5 +1,5 @@
 **Used Code:**
-- *Celltypeidentification Code: David?*
+- *Celltypeidentification Code:*
 - script_sc_20200908 (Preprocessing, CLustering, Celltype identification, PT subclustering)
 - script_sn_20200908 (Preprocessing, CLustering, Celltype identification, PT subclustering)
 - differential_exp_sc_sn or differential_exp_sc_sn_cutoffFC
