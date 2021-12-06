@@ -1,8 +1,7 @@
 **Used Code:**
-- *Celltypeidentification Code:*
 - script_sc_20200908 (Preprocessing, CLustering, Celltype identification, PT subclustering)
 - script_sn_20200908 (Preprocessing, CLustering, Celltype identification, PT subclustering)
-- differential_exp_sc_sn or differential_exp_sc_sn_cutoffFC
+- differential_exp_sc_sn 
 - spiderplots-Panther (where is the input from?) 
 - script_sc_20210204_kirita
 - script_sn_20210204_kirita_5mt
