@@ -2,7 +2,7 @@
 - script_sc_20200908 (Preprocessing, CLustering, Celltype identification, PT subclustering)
 - script_sn_20200908 (Preprocessing, CLustering, Celltype identification, PT subclustering)
 - differential_exp_sc_sn 
-- spiderplots-Panther (where is the input from?) 
+- GSEA_spiderplots 
 - script_sc_20210204_kirita
 - script_sn_20210204_kirita_5mt
 - *Code from Julius is missing*
@@ -18,7 +18,7 @@
 - Figure 4:
   - A: Julius?
   - B+C+D: Julius?
-  - E: 2.2. in spiderplots-Panther
-  - F: 2.3. in spiderplots-Panther
+  - E: 2.2. in GSEA_spiderplots
+  - F: 2.3. in GSEA_spiderplots
   - G+H: 4. and 5. in differential_exp_sc_sn **?**
 - Figure 5: script_sc_20210204_kirita / script_sn_20210204_kirita_5mt
