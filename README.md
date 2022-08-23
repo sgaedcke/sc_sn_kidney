@@ -1,11 +1,3 @@
-**Used Code:**
-- script_sc_20200908 (Preprocessing, CLustering, Celltype identification, PT subclustering)
-- script_sn_20200908 (Preprocessing, CLustering, Celltype identification, PT subclustering)
-- differential_exp_sc_sn 
-- GSEA_spiderplots 
-- script_sc_20210204_kirita
-- script_sn_20210204_kirita_5mt
-- *Code from Julius is missing*
 
 **Figures:**
 - Figure 1: 
